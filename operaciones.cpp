@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
+int validanumero(int n){
+    //proceso de validacion
+
+}
 main(){
-    int n;
-    count<<"igrese un numero : ";
-    cin>>n:
 
 }
