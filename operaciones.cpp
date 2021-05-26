@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
-int validanumero(int n){
+int validnumero( int n){
     //proceso de validacion
 
 }
 main(){
+
 
 }
