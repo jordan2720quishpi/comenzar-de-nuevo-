@@ -1,2 +1,3 @@
 Se necesita crear un programa que permita realizar operaciones basicas de un numero.
 Necesitamos un procedimiento para validar el numero entre 1 y 10(propuso ing cesar osorio)
+Necesitamos fromar grupos de 4 personas para designar tareas.
