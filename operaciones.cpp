@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
-int validnumero( int n){
-    //proceso de validacion
-
-}
 main(){
+    int n;
+    do {
+        count<<"igrese un numero : ";
+        cin>>n:
+    }while (n<1 || n>10);
 
 
 }
