@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int validanumero(){
-<<<<<<< HEAD
+
     int numero;
     do{
         cout<<"Ingrese un numero :  ";
@@ -13,23 +13,17 @@ int validanumero(){
 main(){
     //Nesito crear un proceso para validar datos de ingreso
     int n= validanumero();
-    saludoprogramador("juan");
 
-=======
-    int nunmero;
+
+    int numero;
     do {
-        count<<"igrese un numero : ";
-        cin>>numero:
+        cout<<"igrese un numero : ";
+        cin>>numero;
 
     }while (numero<1 || numero>10);
     return numero;
 }
-void saludo programador (string nombre){
+void saludoprogramador (string nombre){
     cout << "Buenas tardes :  "<<nombre;
 }
-main(){
-    int n= validanumero();
->>>>>>> grupo1
 
-
-}
