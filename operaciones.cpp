@@ -26,5 +26,6 @@ main(){
 void saludoprogramador (string nombre){
     cout << "Buenas tardes :  "<<nombre;
     cout << "determinar si esres un robot";
+    cout<<"como has estado";
 }
 
