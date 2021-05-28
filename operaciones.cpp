@@ -26,7 +26,6 @@ main(){
 }
 void saludo programador (string nombre){
     cout << "Buenas tardes :  "<<nombre;
-
 }
 main(){
     int n= validanumero();
