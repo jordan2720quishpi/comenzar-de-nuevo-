@@ -10,6 +10,10 @@ int validanumero(){
     return numero;
 
 }
+void sumar(int n ){
+    int resultado =n+n;
+
+}
 main(){
     //Nesito crear un proceso para validar datos de ingreso
     int n= validanumero();
